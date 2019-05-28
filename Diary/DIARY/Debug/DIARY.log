@@ -1,0 +1,20 @@
+﻿  main.c
+c:\users\전경희\desktop\2조-2\다이어리\최종\diary_최종\diary\login.h(64): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\전경희\desktop\2조-2\다이어리\최종\diary_최종\diary\save.h(41): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int *[2]'과(와) 다릅니다.
+c:\users\전경희\desktop\2조-2\다이어리\최종\diary_최종\diary\save.h(41): warning C4024: 'sort_': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+c:\users\전경희\desktop\2조-2\다이어리\최종\diary_최종\diary\save.h(42): warning C4133: '=': 'int *'과(와) 'sc *' 사이의 형식이 호환되지 않습니다.
+c:\users\전경희\desktop\2조-2\다이어리\최종\diary_최종\diary\save.h(43): warning C4133: '=': 'int *'과(와) 'sc *' 사이의 형식이 호환되지 않습니다.
+c:\users\전경희\desktop\2조-2\다이어리\최종\diary_최종\diary\save.h(48): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int *[2]'과(와) 다릅니다.
+c:\users\전경희\desktop\2조-2\다이어리\최종\diary_최종\diary\save.h(48): warning C4024: 'sort_': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+c:\users\전경희\desktop\2조-2\다이어리\최종\diary_최종\diary\save.h(49): warning C4133: '=': 'int *'과(와) 'sc *' 사이의 형식이 호환되지 않습니다.
+c:\users\전경희\desktop\2조-2\다이어리\최종\diary_최종\diary\save.h(50): warning C4133: '=': 'int *'과(와) 'sc *' 사이의 형식이 호환되지 않습니다.
+c:\users\전경희\desktop\2조-2\다이어리\최종\diary_최종\diary\save.h(55): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int *[2]'과(와) 다릅니다.
+c:\users\전경희\desktop\2조-2\다이어리\최종\diary_최종\diary\save.h(55): warning C4024: 'sort_': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+c:\users\전경희\desktop\2조-2\다이어리\최종\diary_최종\diary\save.h(56): warning C4133: '=': 'int *'과(와) 'sc *' 사이의 형식이 호환되지 않습니다.
+c:\users\전경희\desktop\2조-2\다이어리\최종\diary_최종\diary\save.h(57): warning C4133: '=': 'int *'과(와) 'sc *' 사이의 형식이 호환되지 않습니다.
+c:\users\전경희\desktop\2조-2\다이어리\최종\diary_최종\diary\save.h(81): warning C4047: '=': 'int'의 간접 참조 수준이 'sc *'과(와) 다릅니다.
+c:\users\전경희\desktop\2조-2\다이어리\최종\diary_최종\diary\save.h(82): warning C4047: '=': 'int'의 간접 참조 수준이 'sc *'과(와) 다릅니다.
+c:\users\전경희\desktop\2조-2\다이어리\최종\diary_최종\diary\main.c(26): warning C4133: '=': 'tm *'과(와) 'tm *' 사이의 형식이 호환되지 않습니다.
+c:\users\전경희\desktop\2조-2\다이어리\최종\diary_최종\diary\login.h(77): warning C4715: 'Login': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  DIARY.vcxproj -> C:\Users\전경희\Desktop\2조-2\다이어리\최종\Diary_최종\Debug\DIARY.exe
+  DIARY.vcxproj -> C:\Users\전경희\Desktop\2조-2\다이어리\최종\Diary_최종\Debug\DIARY.pdb (Partial PDB)
